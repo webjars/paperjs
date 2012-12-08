@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>paperjs</artifactId>
-    <version>0.22-SNAPSHOT</version>
+    <version>0.22</version>
     <name>Paper.js</name>
     <description>WebJar for Paper.js</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/paperjs</url>
         <connection>scm:git:https://github.com/webjars/paperjs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/paperjs.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>paperjs-0.22</tag>
     </scm>
 
     <developers>
